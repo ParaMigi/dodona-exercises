@@ -3,9 +3,9 @@ Schrijf een functie `drie` die altijd `3` teruggeeft als returnwaarde.
 
 ## Voorbeeld
 
-```console?lang=python&prompt=!!!!!!
-!!!!!! test("Hallo")
+```console?lang=python&prompt=>>>
+>>> drie("Hallo")
 3
-!!!!!! test(8)
+>>> drie(8)
 3
 ```
