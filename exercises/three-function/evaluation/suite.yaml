@@ -4,5 +4,21 @@
       return: 3
     - expression: 'drie(42)'
       return: 3
-    - expression: 'drie("A\nstring\nwith\nnewlines")'
+    - expression: 'drie("Een\nstring\nmet\nnewlines")'
+      return: 3
+    - expression: 'drie(37.0)'
+      return: 3
+    - expression: 'three(None)'
+      return: 3
+- tab: "Three"
+  testcases:
+    - expression: 'three("Hello")'
+      return: 3
+    - expression: 'three(42)'
+      return: 3
+    - expression: 'three("A\nstring\nwith\nnewlines")'
+      return: 3
+    - expression: 'three(37.0)'
+      return: 3
+    - expression: 'three(None)'
       return: 3
