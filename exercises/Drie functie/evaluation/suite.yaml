@@ -8,5 +8,5 @@
       return: 3
     - expression: 'drie(37.0)'
       return: 3
-    - expression: 'three(None)'
+    - expression: 'drie(None)'
       return: 3
