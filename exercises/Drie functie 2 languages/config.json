@@ -9,7 +9,7 @@
     "pythia_judge": "doctest"
   },
   "labels": [
-    "template"
+    "testing"
   ],
   "internals": {
     "token": "k-VKua6SRAthcwnehEUWmJXtaNCzqR_f9sdTNJB6qAgriTvmrV6UC7zxSVN-I6JE",

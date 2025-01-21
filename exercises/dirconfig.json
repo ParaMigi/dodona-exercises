@@ -1,7 +1,6 @@
 {
   "evaluation": {
-    "handler": "tested",
-    "test_suite": "suite.yaml"
+      "handler": "python"
   },
   "programming_language": "python"
 }

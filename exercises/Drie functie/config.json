@@ -5,6 +5,10 @@
       "nl": "Drie functie"
     }
   },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
   "labels": [
     "template"
   ],

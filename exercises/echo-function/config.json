@@ -5,6 +5,10 @@
       "nl": "Echofunctie"
     }
   },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
   "labels": [
     "template"
   ],
