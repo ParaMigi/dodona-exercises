@@ -1,0 +1,10 @@
+>>> drie("Hallo")
+3
+>>> drie(42)
+3
+>>> drie("Een\nstring\nmet\nnewlines")
+3
+>>> drie(37.0)
+3
+>>> drie(None)
+3
