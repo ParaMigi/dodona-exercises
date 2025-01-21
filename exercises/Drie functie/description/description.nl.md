@@ -1,5 +1,5 @@
 ## Opdracht
-Schrijf een functie `drie` die altijd `3` teruggeeft als returnwaarde.
+Schrijf een functie `drie` die één argument neemt en altijd `3` teruggeeft als returnwaarde.
 
 ## Voorbeeld
 
