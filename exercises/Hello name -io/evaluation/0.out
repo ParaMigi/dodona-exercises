@@ -60,5 +60,5 @@ comparison: exact match
 </LANGUAGE>
 <LANGUAGE code="en">
   <detect token="Hello" />
-  <fixed from="Hallo" to="Hello" detect="false" />
+  <fixed from="Hallo" to="Hello" detect="true" />
 </LANGUAGE>
