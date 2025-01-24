@@ -1,5 +1,5 @@
 ## Assignment
-Write a programme that asks for the name of the user, and then greets them with `Hello`, followed by their own name.
+Write a program that asks for the name of the user, and then greets them with `Hello`, followed by their own name.
 
 ## Example 1
 ### Input
