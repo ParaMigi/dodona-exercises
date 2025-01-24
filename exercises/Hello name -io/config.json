@@ -1,12 +1,16 @@
 {
-    "description": {
-      "names": {
-        "en": "Echo",
-        "nl": "Echo"
-      }
-    },
-    "evaluation": {
-      "pythia_judge": "output"
-    },
-    "labels": []
+  "description": {
+    "names": {
+      "en": "Echo",
+      "nl": "Echo"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "internals": {
+    "token": "4rZV2tdZm_EYCImDznqITQFuRHBuXu8yrSTF2P-dvkZA_hgNXse6EgawJYH62gnv",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
+}
