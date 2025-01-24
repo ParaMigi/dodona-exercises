@@ -1,0 +1,1 @@
+print("Hallo,", input("Hoe heet je? "))
