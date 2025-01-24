@@ -54,6 +54,11 @@ block count: multi
 input block size: 1
 output block size: 1 
 show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Hallo" />
+</LANGUAGE>
 <LANGUAGE code="en">
-    <from="Hallo" to="Hello" />
+  <detect token="Hallo" />
+  <token from="Hallo" to="Hello" detect="false" />
 </LANGUAGE>
