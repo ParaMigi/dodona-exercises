@@ -7,6 +7,6 @@ for i in range(2, number):
         isPrime = False
 
 if isPrime:
-    print(number, "is prime.")
+    print(number, "is prime")
 else:
-    print(number, "is not prime.")
+    print(number, "is not prime")

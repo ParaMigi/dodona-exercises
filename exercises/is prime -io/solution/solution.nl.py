@@ -7,6 +7,6 @@ for i in range(2, getal):
         isPriem = False
 
 if isPriem:
-    print(getal, "is priem.")
+    print(getal, "is priem")
 else:
-    print(getal, "is niet priem.")
+    print(getal, "is niet priem")
