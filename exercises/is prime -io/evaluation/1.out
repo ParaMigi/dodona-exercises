@@ -1,0 +1,68 @@
+5 is priem
+6 is niet priem
+7 is priem
+8 is niet priem
+9 is niet priem
+10 is niet priem
+11 is priem
+12 is niet priem
+13 is priem
+14 is niet priem
+15 is niet priem
+16 is niet priem
+17 is priem
+18 is niet priem
+19 is priem
+20 is niet priem
+21 is niet priem
+22 is niet priem
+23 is priem
+24 is niet priem
+25 is niet priem
+26 is niet priem
+27 is niet priem
+28 is niet priem
+29 is priem
+30 is niet priem
+31 is priem
+32 is niet priem
+33 is niet priem
+34 is niet priem
+35 is niet priem
+36 is niet priem
+37 is priem
+38 is niet priem
+39 is niet priem
+40 is niet priem
+41 is priem
+42 is niet priem
+43 is priem
+44 is niet priem
+45 is niet priem
+46 is niet priem
+47 is priem
+48 is niet priem
+49 is niet priem
+50 is niet priem
+51 is niet priem
+52 is niet priem
+53 is priem
+54 is niet priem
+----------------------------------------
+python input without prompt: true
+tab name: Reeks
+block count: multi
+input block size: 1
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="priem" />
+  <detect token="niet" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="prime" />
+  <detect token="not" />
+  <fixed from="priem" to="prime" detect="false" />
+  <fixed from="niet" to="not" detect="false" />
+</LANGUAGE>

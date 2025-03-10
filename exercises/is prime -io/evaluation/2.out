@@ -1,0 +1,68 @@
+595077 is niet priem
+377327 is priem
+109725 is niet priem
+359477 is priem
+303958 is niet priem
+117671 is priem
+721540 is niet priem
+658487 is priem
+152520 is niet priem
+392927 is priem
+398729 is priem
+503317 is priem
+57348 is niet priem
+142107 is niet priem
+294120 is niet priem
+42210 is niet priem
+419760 is niet priem
+241647 is niet priem
+47591 is priem
+171589 is niet priem
+134681 is priem
+34320 is niet priem
+124160 is niet priem
+87359 is priem
+508811 is priem
+175628 is niet priem
+152989 is priem
+250673 is priem
+914022 is niet priem
+757063 is priem
+117758 is niet priem
+187631 is priem
+186653 is priem
+107940 is niet priem
+85889 is priem
+603316 is niet priem
+253258 is niet priem
+174613 is priem
+195023 is priem
+86993 is priem
+695200 is niet priem
+99223 is priem
+170327 is priem
+212827 is priem
+415422 is niet priem
+289213 is priem
+251653 is priem
+145125 is niet priem
+671431 is priem
+132679 is priem
+----------------------------------------
+python input without prompt: true
+tab name: Grote getallen
+block count: multi
+input block size: 1
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="priem" />
+  <detect token="niet" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="prime" />
+  <detect token="not" />
+  <fixed from="priem" to="prime" detect="false" />
+  <fixed from="niet" to="not" detect="false" />
+</LANGUAGE>
