@@ -7,47 +7,48 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
 
 <i>(PS: the official definition is a bit more specific, making 1 not a prime number)</i>
 
-## Example 1
-### Input
+## <b>Examples</b>
+### Example 1
+#### Input
 ```console?lang=python
 5
 ```
 
-### Output
+#### Output
 ```console?lang=python
 5 is prime
 ```
 
-## Example 2
-### Input
+### Example 2
+#### Input
 ```console?lang=python
 21
 ```
 
-### Output
+#### Output
 ```console?lang=python
 21 is not prime
 ```
 <i>(because 21 is also divisible by 3 and 7)</i>
 
-## Example 3
-### Input
+### Example 3
+#### Input
 ```console?lang=python
 17
 ```
 
-### Output
+#### Output
 ```console?lang=python
 17 is prime
 ```
 
-## Example 4
-### Input
+### Example 4
+#### Input
 ```console?lang=python
 55
 ```
 
-### Output
+#### Output
 ```console?lang=python
 55 is not prime
 ```
