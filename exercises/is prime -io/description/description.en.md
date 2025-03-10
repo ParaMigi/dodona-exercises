@@ -1,7 +1,7 @@
-## <b>Assignment</b>
+# <b>Assignment</b>
 Write a program that asks the user for a number, and then says whether that number is a prime number or not.
 
-### What are prime numbers?
+## What are prime numbers?
 A prime number is a positive integer that is divisible only by 1 and itself. The lowest (and only <i>even</i>) prime number is 2. The first 10 prime numbers are:
     2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 
@@ -10,27 +10,27 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
  <br>
  <br>
  
-## <b>Examples</b>
-### Example 1
-#### Input
+# <b>Examples</b>
+## Example 1
+### Input
 ```console?lang=python
 5
 ```
 
-#### Output
+### Output
 ```console?lang=python
 5 is prime
 ```
 
 <br>
 
-### Example 2
-#### Input
+## Example 2
+### Input
 ```console?lang=python
 21
 ```
 
-#### Output
+### Output
 ```console?lang=python
 21 is not prime
 ```
@@ -38,26 +38,26 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
 
 <br>
 
-### Example 3
-#### Input
+## Example 3
+### Input
 ```console?lang=python
 17
 ```
 
-#### Output
+### Output
 ```console?lang=python
 17 is prime
 ```
 
 <br>
 
-### Example 4
-#### Input
+## Example 4
+### Input
 ```console?lang=python
 55
 ```
 
-#### Output
+### Output
 ```console?lang=python
 55 is not prime
 ```

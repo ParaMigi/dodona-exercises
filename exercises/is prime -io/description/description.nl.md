@@ -10,27 +10,27 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 <br>
 <br> 
  
-## <b>Voorbeelden</b>
-### Voorbeeld 1
-#### Input
+# <b>Voorbeelden</b>
+## Voorbeeld 1
+### Input
 ```console?lang=python
 5
 ```
 
-#### Output
+### Output
 ```console?lang=python
 5 is priem
 ```
 
 <br>
 
-### Voorbeeld 2
-#### Input
+## Voorbeeld 2
+### Input
 ```console?lang=python
 21
 ```
 
-#### Output
+### Output
 ```console?lang=python
 21 is niet priem
 ```
@@ -38,26 +38,26 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 
 <br>
 
-### Voorbeeld 3
-#### Input
+## Voorbeeld 3
+### Input
 ```console?lang=python
 17
 ```
 
-#### Output
+### Output
 ```console?lang=python
 17 is priem
 ```
 
 <br>
 
-### Voorbeeld 4
-#### Input
+## Voorbeeld 4
+### Input
 ```console?lang=python
 55
 ```
 
-#### Output
+### Output
 ```console?lang=python
 55 is niet priem
 ```
