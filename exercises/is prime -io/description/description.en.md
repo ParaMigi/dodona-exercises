@@ -7,7 +7,8 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
 
 <i>(PS: the official definition is a bit more specific, making 1 not a prime number)</i>
  
- 
+ <br>
+ <br>
  
 ## <b>Examples</b>
 ### Example 1
