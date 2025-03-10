@@ -6,9 +6,9 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
     2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 
 <i>(PS: the official definition is a bit more specific, making 1 not a prime number)</i>
-
-
-
+ 
+ 
+ 
 ## <b>Examples</b>
 ### Example 1
 #### Input

@@ -6,9 +6,9 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
     2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 
 <i>(PS: de officiële definitie is iets specifieker, waardoor 1 géén priemgetal is)</i>
-
-
-
+ 
+ 
+ 
 ## <b>Voorbeelden</b>
 ### Voorbeeld 1
 #### Input
