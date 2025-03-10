@@ -7,7 +7,7 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 
 <i>(PS: de officiële definitie is iets specifieker, waardoor 1 géén priemgetal is)</i>
  
- 
+\ 
  
 ## <b>Voorbeelden</b>
 ### Voorbeeld 1
