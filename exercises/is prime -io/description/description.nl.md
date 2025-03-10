@@ -1,7 +1,7 @@
 ## Opdracht
 Schrijf een programma dat de gebruiker om een getal vraagt, en dan zegt of dat getal een priemgetal is of niet.
 
-# What are prime numbers?
+### What are prime numbers?
 Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door 1 en zichzelf. Het laagste (en enige <i>even</i>) priemgetal is 2. De eerste 10 priemgetallen zijn:
     2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 
@@ -51,4 +51,4 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 ```console?lang=python
 55 is niet priem
 ```
-(want 55 is ook deelbaar door 5 en 11)
+<i>(want 55 is ook deelbaar door 5 en 11)</i>
