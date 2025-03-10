@@ -1,4 +1,4 @@
-## Assignment
+## <b>Assignment</b>
 Write a program that asks the user for a number, and then says whether that number is a prime number or not.
 
 ### What are prime numbers?
