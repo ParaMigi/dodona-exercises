@@ -1,0 +1,21 @@
+5 is priem
+21 is niet priem
+17 is priem
+55 is niet priem
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1 
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="priem" />
+  <detect token="niet" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="prime" />
+  <detect token="not" />
+  <fixed from="priem" to="prime" detect="false" />
+  <fixed from="niet" to="not" detect="false" />
+</LANGUAGE>
