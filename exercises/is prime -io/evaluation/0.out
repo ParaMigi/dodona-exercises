@@ -10,12 +10,12 @@ output block size: 1
 show line numbers: false
 comparison: exact match
 <LANGUAGE code="nl">
-  tab name: Voorbeelden
+  <tab name: Voorbeelden />
   <detect token="priem" />
   <detect token="niet" />
 </LANGUAGE>
 <LANGUAGE code="en">
-  tab name: Examples
+  <tab name: Examples />
   <detect token="prime" />
   <detect token="not" />
   <fixed from="priem" to="prime" detect="false" />
