@@ -22,6 +22,8 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 5 is priem
 ```
 
+<br>
+
 ### Voorbeeld 2
 #### Input
 ```console?lang=python
@@ -34,6 +36,8 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 ```
 <i>(want 21 is ook deelbaar door 3 en 7)</i>
 
+<br>
+
 ### Voorbeeld 3
 #### Input
 ```console?lang=python
@@ -44,6 +48,8 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 ```console?lang=python
 17 is priem
 ```
+
+<br>
 
 ### Voorbeeld 4
 #### Input

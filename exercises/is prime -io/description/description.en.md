@@ -22,6 +22,8 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
 5 is prime
 ```
 
+<br>
+
 ### Example 2
 #### Input
 ```console?lang=python
@@ -34,6 +36,8 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
 ```
 <i>(because 21 is also divisible by 3 and 7)</i>
 
+<br>
+
 ### Example 3
 #### Input
 ```console?lang=python
@@ -44,6 +48,8 @@ A prime number is a positive integer that is divisible only by 1 and itself. The
 ```console?lang=python
 17 is prime
 ```
+
+<br>
 
 ### Example 4
 #### Input
