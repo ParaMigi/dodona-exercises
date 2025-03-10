@@ -4,17 +4,18 @@
 55 is niet priem
 ----------------------------------------
 python input without prompt: true
-tab name: Voorbeelden
 block count: multi
 input block size: 1
 output block size: 1 
 show line numbers: false
 comparison: exact match
 <LANGUAGE code="nl">
+  tab name: Voorbeelden
   <detect token="priem" />
   <detect token="niet" />
 </LANGUAGE>
 <LANGUAGE code="en">
+  tab name: Examples
   <detect token="prime" />
   <detect token="not" />
   <fixed from="priem" to="prime" detect="false" />
