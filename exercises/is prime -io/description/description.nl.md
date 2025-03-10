@@ -1,4 +1,4 @@
-## Opdracht
+## <b>Opdracht</b>
 Schrijf een programma dat de gebruiker om een getal vraagt, en dan zegt of dat getal een priemgetal is of niet.
 
 ### Wat zijn priemgetallen?
@@ -7,47 +7,50 @@ Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door
 
 <i>(PS: de officiële definitie is iets specifieker, waardoor 1 géén priemgetal is)</i>
 
-## Voorbeeld 1
-### Input
+
+
+## <b>Voorbeelden</b>
+### Voorbeeld 1
+#### Input
 ```console?lang=python
 5
 ```
 
-### Output
+#### Output
 ```console?lang=python
 5 is priem
 ```
 
-## Voorbeeld 2
-### Input
+### Voorbeeld 2
+#### Input
 ```console?lang=python
 21
 ```
 
-### Output
+#### Output
 ```console?lang=python
 21 is niet priem
 ```
 <i>(want 21 is ook deelbaar door 3 en 7)</i>
 
-## Voorbeeld 3
-### Input
+### Voorbeeld 3
+#### Input
 ```console?lang=python
 17
 ```
 
-### Output
+#### Output
 ```console?lang=python
 17 is priem
 ```
 
-## Voorbeeld 4
-### Input
+### Voorbeeld 4
+#### Input
 ```console?lang=python
 55
 ```
 
-### Output
+#### Output
 ```console?lang=python
 55 is niet priem
 ```
