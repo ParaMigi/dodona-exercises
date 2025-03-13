@@ -2,11 +2,6 @@
 Write a program that asks the user how many words they want to input, then asks for each word one by one, and finally prints the total number of letters across all words.
 
 <br>
-
-## How does it work?
-The program first asks for the number of words the user wants to enter. Then, it repeatedly asks for each word and keeps track of the total number of letters. Finally, it displays the sum of all the letters in the words provided.
-
-<br>
 <br>
 
 # <b>Examples</b>
@@ -22,7 +17,7 @@ cherry
 
 ### Output
 ```console?lang=python
-The sum of the letters in all words is 17.
+The sum of the number of letters in all words is 17.
 ```
 
 <br>
@@ -37,7 +32,7 @@ world
 
 ### Output
 ```console?lang=python
-The sum of the letters in all words is 10.
+The sum of the number of letters in all words is 10.
 ```
 
 <br>
@@ -54,5 +49,5 @@ fox
 
 ### Output
 ```console?lang=python
-The sum of the letters in all words is 16.
+The sum of the number of letters in all words is 16.
 ```

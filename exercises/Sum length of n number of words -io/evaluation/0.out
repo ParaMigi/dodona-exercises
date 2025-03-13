@@ -1,6 +1,6 @@
-De som van de letters in alle woorden is 15.
-De som van de letters in alle woorden is 11.
-De som van de letters in alle woorden is 17.
+De som van het aantal letters in de woorden is 15.
+De som van het aantal letters in de woorden is 11.
+De som van het aantal letters in de woorden is 17.
 ----------------------------------------
 python input without prompt: true
 tab name: Voorbeelden
@@ -10,9 +10,9 @@ output block size: 1
 show line numbers: false
 comparison: exact match
 <LANGUAGE code="nl">
-  <detect token="De som van de letters in alle woorden is" />
+  <detect token="De som van het aantal letters in de woorden is" />
 </LANGUAGE>
 <LANGUAGE code="en">
-  <detect token="The sum of the letters in all words is" />
-  <fixed from="De som van de letters in alle woorden is" to="The sum of the letters in all words is" detect="false" />
+  <detect token="The sum of the number of letters in all words is" />
+  <fixed from="De som van het aantal letters in de woorden is" to="The sum of the number of letters in all words is" detect="false" />
 </LANGUAGE>
