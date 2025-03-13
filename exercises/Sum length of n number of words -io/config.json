@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "en": "The sum of the length of an unknown number of words",
+      "nl": "De som van de lengte van een onbekend aantal woorden"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": []
+}

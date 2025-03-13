@@ -1,0 +1,23 @@
+De som van het aantal letters in de woorden is 180.
+De som van het aantal letters in de woorden is 186.
+De som van het aantal letters in de woorden is 23.
+De som van het aantal letters in de woorden is 70.
+De som van het aantal letters in de woorden is 168.
+----------------------------------------
+python input without prompt: true
+tab name: Voorbeelden
+block count: multi
+input block size: ends with
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="priem" />
+  <detect token="niet" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="prime" />
+  <detect token="not" />
+  <fixed from="priem" to="prime" detect="false" />
+  <fixed from="niet" to="not" detect="false" />
+</LANGUAGE>
