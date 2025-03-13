@@ -8,5 +8,9 @@
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": []
+  "labels": [],
+  "internals": {
+    "token": "C3fSZNeupHqdSvySiamIcTVRjxA4It3iUSiX6B87VNKdnDGHmdUwe2Y6M7WP9pz-",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
