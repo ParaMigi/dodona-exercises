@@ -1,5 +1,5 @@
 # <b>Opdracht</b>
-Schrijf een programma dat de gebruiker vraagt hoeveel woorden hij wil invoeren. Vervolgens vraagt het programma om elk woord één voor één en geeft het uiteindelijk het totaal aantal letters van alle ingevoerde woorden weer.
+Schrijf een programma dat de gebruiker vraagt hoeveel woorden die wil invoeren, vervolgens één voor één om elk woord vraagt, en tot slot print hoeveel letters er totaal in alle ingevoerde woorden samen zitten.
 
 <br>
 <br>
