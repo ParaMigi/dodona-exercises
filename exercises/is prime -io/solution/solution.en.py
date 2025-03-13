@@ -2,7 +2,7 @@ number = int(input("Give a number: "))
 
 isPrime = True
 
-for i in range(2, number):
+for i in range(2, number): # range(2, round(1 + number**(1/2))) is faster
     if number % i == 0:
         isPrime = False
 
