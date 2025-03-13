@@ -1,0 +1,65 @@
+De som van het aantal letters in de woorden is 240.
+De som van het aantal letters in de woorden is 106.
+De som van het aantal letters in de woorden is 98.
+De som van het aantal letters in de woorden is 0.
+De som van het aantal letters in de woorden is 203.
+De som van het aantal letters in de woorden is 337.
+De som van het aantal letters in de woorden is 307.
+De som van het aantal letters in de woorden is 103.
+De som van het aantal letters in de woorden is 135.
+De som van het aantal letters in de woorden is 256.
+De som van het aantal letters in de woorden is 214.
+De som van het aantal letters in de woorden is 160.
+De som van het aantal letters in de woorden is 216.
+De som van het aantal letters in de woorden is 175.
+De som van het aantal letters in de woorden is 137.
+De som van het aantal letters in de woorden is 310.
+De som van het aantal letters in de woorden is 106.
+De som van het aantal letters in de woorden is 168.
+De som van het aantal letters in de woorden is 58.
+De som van het aantal letters in de woorden is 0.
+De som van het aantal letters in de woorden is 12.
+De som van het aantal letters in de woorden is 297.
+De som van het aantal letters in de woorden is 107.
+De som van het aantal letters in de woorden is 339.
+De som van het aantal letters in de woorden is 303.
+De som van het aantal letters in de woorden is 346.
+De som van het aantal letters in de woorden is 274.
+De som van het aantal letters in de woorden is 38.
+De som van het aantal letters in de woorden is 110.
+De som van het aantal letters in de woorden is 314.
+De som van het aantal letters in de woorden is 19.
+De som van het aantal letters in de woorden is 35.
+De som van het aantal letters in de woorden is 108.
+De som van het aantal letters in de woorden is 169.
+De som van het aantal letters in de woorden is 44.
+De som van het aantal letters in de woorden is 21.
+De som van het aantal letters in de woorden is 249.
+De som van het aantal letters in de woorden is 19.
+De som van het aantal letters in de woorden is 101.
+De som van het aantal letters in de woorden is 295.
+De som van het aantal letters in de woorden is 208.
+De som van het aantal letters in de woorden is 296.
+De som van het aantal letters in de woorden is 200.
+De som van het aantal letters in de woorden is 13.
+De som van het aantal letters in de woorden is 168.
+De som van het aantal letters in de woorden is 272.
+De som van het aantal letters in de woorden is 367.
+De som van het aantal letters in de woorden is 45.
+De som van het aantal letters in de woorden is 191.
+De som van het aantal letters in de woorden is 75.
+----------------------------------------
+python input without prompt: true
+tab name: Willekeurige Nederlandse woorden
+block count: multi
+input block size: ends with
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="De som van het aantal letters in de woorden is" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="The sum of the number of letters in all words is" />
+  <fixed from="De som van het aantal letters in de woorden is" to="The sum of the number of letters in all words is" detect="false" />
+</LANGUAGE>
