@@ -41,7 +41,7 @@ De som van het aantal letters in de woorden is 11.
 ### Invoer
 ```python
 4
-kat
+kreeft
 hond
 olifant
 vos
@@ -49,5 +49,5 @@ vos
 
 ### Uitvoer
 ```python
-De som van het aantal letters in de woorden is 17.
+De som van het aantal letters in de woorden is 20.
 ```

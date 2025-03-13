@@ -41,7 +41,7 @@ The sum of the number of letters in all words is 10.
 ### Input
 ```console?lang=python
 4
-cat
+lobster
 dog
 elephant
 fox
@@ -49,5 +49,5 @@ fox
 
 ### Output
 ```console?lang=python
-The sum of the number of letters in all words is 16.
+The sum of the number of letters in all words is 21.
 ```
