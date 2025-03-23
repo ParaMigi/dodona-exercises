@@ -8,7 +8,7 @@ Schrijf een programma dat de gebruiker vraagt hoeveel woorden die wil invoeren, 
 
 ## Voorbeeld 1
 ### Invoer
-```python
+```console?lang=python
 3
 appel
 banaan
@@ -16,7 +16,7 @@ kers
 ```
 
 ### Uitvoer
-```python
+```console?lang=python
 De som van het aantal letters in de woorden is 15.
 ```
 
@@ -24,14 +24,14 @@ De som van het aantal letters in de woorden is 15.
 
 ## Voorbeeld 2
 ### Invoer
-```python
+```console?lang=python
 2
 hallo
 wereld
 ```
 
 ### Uitvoer
-```python
+```console?lang=python
 De som van het aantal letters in de woorden is 11.
 ```
 
@@ -39,7 +39,7 @@ De som van het aantal letters in de woorden is 11.
 
 ## Voorbeeld 3
 ### Invoer
-```python
+```console?lang=python
 4
 kreeft
 hond
@@ -48,6 +48,6 @@ vos
 ```
 
 ### Uitvoer
-```python
+```console?lang=python
 De som van het aantal letters in de woorden is 20.
 ```
