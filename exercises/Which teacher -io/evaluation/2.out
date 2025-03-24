@@ -1,0 +1,115 @@
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+Jij krijgt geen informaticawetenschappen.
+----------------------------------------
+python input without prompt: true
+tab name: Niet bestaande klassen
+block count: multi
+input block size: 1
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Jij krijgt geen informaticawetenschappen" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="You don't take computer science" />
+  <fixed from="Jij krijgt geen informaticawetenschappen" to="You don't take computer science" detect="false" />
+</LANGUAGE>

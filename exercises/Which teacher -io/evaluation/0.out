@@ -1,0 +1,31 @@
+Jij krijgt geen informaticawetenschappen.
+Jouw leerkracht voor informaticawetenschappen is Mevr. Derck.
+Jouw leerkracht voor informaticawetenschappen is Mevr. Michiels.
+Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+----------------------------------------
+python input without prompt: true
+tab name: Voorbeelden
+block count: multi
+input block size: 1
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Jouw leerkracht voor informaticawetenschappen is" />
+  <detect token="Mevr. Derck" />
+  <detect token="Mevr. Michiels" />
+  <detect token="Jij krijgt geen informaticawetenschappen" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="Your teacher for computer science is" />
+  <detect token="Ms. Derck" />
+  <detect token="Mrs. Michiels" />
+  <detect token="You don't take computer science" />
+  <fixed from="Jouw leerkracht voor informaticawetenschappen is" to="Your teacher for computer science is" detect="false" />
+  <fixed from="Mevr. Derck" to="Ms. Derck" detect="false" />
+  <fixed from="Mevr. Michiels" to="Mrs. Michiels" detect="false" />
+  <fixed from="Jij krijgt geen informaticawetenschappen" to="You don't take computer science" detect="false" />
+</LANGUAGE>

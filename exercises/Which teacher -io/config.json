@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Who is your computer science teacher?",
+      "nl": "Wie is jouw leerkracht informaticawetenschappen?"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "internals": {
+    "token": "C3fSZNeupHqdSvySiamIcTVRjxA4It3iUSiX6B87VNKdnDGHmdUwe2Y6M7WP9pz-",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
