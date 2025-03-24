@@ -1,7 +1,7 @@
 # <b>Opdracht</b>
 Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgens vertelt welke leerkracht die heeft voor informaticawetenschappen.
 
-<details markup='1'>
+<details markdown="1">
 <summary>Wie krijgt les van wie?</summary>
 * 4NW4 krijgt les van Mevr. Derck.
 * 4NW3 krijgt les van Mevr. Michiels.
@@ -9,7 +9,6 @@ Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgen
 * Alle andere klassen krijgen geen informaticawetenschappen
 </details>
 
-<br>
 <br>
 
 <details markdown="1">
