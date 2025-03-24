@@ -13,7 +13,7 @@ Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgen
 <br>
 
 <details markdown="1">
-<summary># <b>Voorbeelden</b></summary>
+<summary><b>Voorbeelden</b></summary>
 
 ## Voorbeeld 1
 ### Invoer
