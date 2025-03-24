@@ -2,7 +2,7 @@
 Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgens vertelt welke leerkracht die heeft voor informaticawetenschappen.
 
 <details markdown="1">
-<summary>Wie krijgt les van wie?</summary>
+<summary><b>Wie krijgt les van wie?</b></summary>
 * 4NW4 krijgt les van Mevr. Derck.
 * 4NW3 krijgt les van Mevr. Michiels.
 * 4NW2, 4NW1, 4EW2, en 4EW1 krijgen les van Mr. Atsma.
