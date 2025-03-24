@@ -38,6 +38,8 @@ Jij krijgt geen informaticawetenschappen.
 Jouw leerkracht voor informaticawetenschappen is Mevr. Derck.
 ```
 
+<br>
+
 ## Voorbeeld 3
 ### Invoer
 ```console?lang=python
