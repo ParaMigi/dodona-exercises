@@ -1,0 +1,30 @@
+Het juiste getal is hoger dan 10
+Het juiste getal is hoger dan 50
+Het juiste getal is lager dan 100
+Het juiste getal is lager dan 80
+Het juiste getal is hoger dan 70
+Gefeliciteerd! 77 is het juiste getal!
+----------------------------------------
+python input without prompt: true
+tab name: Voorbeeld
+block count: multi
+input block size: ends with
+output block size: ends with
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Het juiste getal is hoger dan" />
+  <detect token="Het juiste getal is lager dan" />
+  <detect token="Gefeliciteerd" />
+  <detect token="is het juiste getal" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="The correct number is higher than" />
+  <detect token="The correct number is lower than" />
+  <detect token="Congratulations" />
+  <detect token="is the correct number" />
+  <fixed from="Het juiste getal is hoger dan" to="The correct number is higher than" detect="false" />
+  <fixed from="Het juiste getal is lager dan" to="The correct number is lower than" detect="false" />
+  <fixed from="Gefeliciteerd" to="Congratulations" detect="false" />
+  <fixed from="is het juiste getal" to="is the correct number" detect="false" />
+</LANGUAGE>
