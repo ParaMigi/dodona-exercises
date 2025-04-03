@@ -1,0 +1,20 @@
+Het kleinste van de getallen is 230, en het grootste is 568.
+Het kleinste van de getallen is 323, en het grootste is 623.
+----------------------------------------
+python input without prompt: true
+tab name: Lange reeksen
+block count: multi
+input block size: ends with
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Het kleinste van de getallen is" />
+  <detect token="en het grootste is" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="The smallest of the numbers is" />
+  <detect token="while the largest is" />
+  <fixed from="Het kleinste van de getallen is" to="The smallest of the numbers is" detect="false" />
+  <fixed from="en het grootste is" to="while the largest is" detect="false" />
+</LANGUAGE>

@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Smallest and largest number",
+      "nl": "Kleinste en grootste getal"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "internals": {
+    "token": "4WI5rwCevZNZGURTdNW4ev_m8_R_h9zIFNGffcmHqRThJrggAyIKHYmJPwU_22K8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
