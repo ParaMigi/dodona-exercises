@@ -1,0 +1,22 @@
+De grootste gemene deler van 8 en 12 is 4.
+De grootste gemene deler van 6 en 12 is 6.
+De grootste gemene deler van 15 en 20 is 5.
+De grootste gemene deler van 24 en 84 is 12.
+----------------------------------------
+python input without prompt: true
+tab name: Voorbeelden
+block count: multi
+input block size: 2
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="De grootste gemene deler van" />
+  <detect token=" en " />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="The greatest common divisor of" />
+  <detect token=" and " />
+  <fixed from="De grootste gemene deler van" to="The greatest common divisor of" />
+  <fixed from=" en " to=" and " detect="false" />
+</LANGUAGE>
