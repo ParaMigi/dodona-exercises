@@ -1,35 +1,42 @@
-## Assignment
+# Assignment
 Write a program that asks for the name of the user, and then greets them with `Hello`, followed by their own name.
 
-## Example 1
-### Input
+<br>
+<br>
+
+# Examples
+<details markdown="1"><summary>Example 1</summary>
+Input
 ```console?lang=python
 Aïsha
 ```
 
-### Output
+Output
 ```console?lang=python
-Hello, Aïsha
+Hallo, Aïsha
 ```
+</details>
 
-## Example 2
-### Input
+<details markdown="1"><summary>Example 2</summary>
+Input
 ```console?lang=python
 Craig
 ```
 
-### Output
+Output
 ```console?lang=python
-Hello, Craig
+Hallo, Craig
 ```
+</details>
 
-## Example 3
-### Input
+<details markdown="1"><summary>Example 3</summary>
+Input
 ```console?lang=python
 Khaleesi
 ```
 
-### Output
+Output
 ```console?lang=python
-Hello, Khaleesi
+Hallo, Khaleesi
 ```
+</details>

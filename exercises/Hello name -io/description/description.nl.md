@@ -1,35 +1,42 @@
-## Opdracht
+# Opdracht
 Schrijf een programma die om de naam van de gebruiker vraagt, en vervolgens de gebruiker begroet met `Hallo,` en hun eigen naam.
 
-## Voorbeeld 1
-### Input
+<br>
+<br>
+
+# Voorbeelden
+<details markdown="1"><summary>Voorbeeld 1</summary>
+Invoer
 ```console?lang=python
 Aïsha
 ```
 
-### Output
+Uitvoer
 ```console?lang=python
 Hallo, Aïsha
 ```
+</details>
 
-## Voorbeeld 2
-### Input
+<details markdown="1"><summary>Voorbeeld 2</summary>
+Invoer
 ```console?lang=python
 Craig
 ```
 
-### Output
+Uitvoer
 ```console?lang=python
 Hallo, Craig
 ```
+</details>
 
-## Voorbeeld 3
-### Input
+<details markdown="1"><summary>Voorbeeld 3</summary>
+Invoer
 ```console?lang=python
 Khaleesi
 ```
 
-### Output
+Uitvoer
 ```console?lang=python
 Hallo, Khaleesi
 ```
+</details>
