@@ -10,11 +10,11 @@ Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgen
 </details>
 
 <br>
+<br>
 
-<details markdown="1">
-<summary><b>Voorbeelden</b></summary>
+# Voorbeelden
 
-## Voorbeeld 1
+<details markdown="1"><summary>Voorbeeld 1</summary>
 ### Invoer
 ```console?lang=python
 4GL
@@ -24,10 +24,9 @@ Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgen
 ```console?lang=python
 Jij krijgt geen informaticawetenschappen.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 2
+<details markdown="1"><summary>Voorbeeld 2</summary>
 ### Invoer
 ```console?lang=python
 4NW4
@@ -37,10 +36,9 @@ Jij krijgt geen informaticawetenschappen.
 ```console?lang=python
 Jouw leerkracht voor informaticawetenschappen is Mevr. Derck.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 3
+<details markdown="1"><summary>Voorbeeld 3</summary>
 ### Invoer
 ```console?lang=python
 4NW3
@@ -50,10 +48,9 @@ Jouw leerkracht voor informaticawetenschappen is Mevr. Derck.
 ```console?lang=python
 Jouw leerkracht voor informaticawetenschappen is Mevr. Michiels.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 4
+<details markdown="1"><summary>Voorbeeld 4</summary>
 ### Invoer
 ```console?lang=python
 4NW2
@@ -63,10 +60,9 @@ Jouw leerkracht voor informaticawetenschappen is Mevr. Michiels.
 ```console?lang=python
 Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 5
+<details markdown="1"><summary>Voorbeeld 5</summary>
 ### Invoer
 ```console?lang=python
 4NW1
@@ -76,10 +72,9 @@ Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
 ```console?lang=python
 Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 6
+<details markdown="1"><summary>Voorbeeld 6</summary>
 ### Invoer
 ```console?lang=python
 4EW2
@@ -89,10 +84,9 @@ Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
 ```console?lang=python
 Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 7
+<details markdown="1"><summary>Voorbeeld 7</summary>
 ### Invoer
 ```console?lang=python
 4EW1

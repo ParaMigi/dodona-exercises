@@ -1,105 +1,103 @@
-# <b>Opdracht</b>
-Schrijf een programma dat de gebruiker vraagt in welke klas die zit en vervolgens vertelt welke leerkracht die heeft voor informaticawetenschappen.
+Here is the translated version of the text, following the language tags provided:
+
+---
+
+# <b>Assignment</b>  
+Write a program that asks the user which class they're in and then tells them who their teacher is for computer science.
 
 <details markdown="1">
-<summary><b>Wie krijgt les van wie?</b></summary>
-* 4NW4 krijgt les van Mevr. Derck.
-* 4NW3 krijgt les van Mevr. Michiels.
-* 4NW2, 4NW1, 4EW2, en 4EW1 krijgen les van Mr. Atsma.
-* Alle andere klassen krijgen geen informaticawetenschappen
+<summary><b>Who has which teacher?</b></summary>
+* 4NW4 has class with Ms. Derck.  
+* 4NW3 has class with Mrs. Michiels.  
+* 4NW2, 4NW1, 4EW2, and 4EW1 have class with Mr. Atsma.  
+* All other classes don't take computer science.  
 </details>
 
 <br>
+<br>
 
-<details markdown="1">
-<summary><b>Voorbeelden</b></summary>
+# Examples
 
-## Voorbeeld 1
-### Invoer
+<details markdown="1"><summary>Example 1</summary>
+### Input
 ```console?lang=python
 4GL
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jij krijgt geen informaticawetenschappen.
+You don't take computer science.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 2
-### Invoer
+<details markdown="1"><summary>Example 2</summary>
+### Input
 ```console?lang=python
 4NW4
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jouw leerkracht voor informaticawetenschappen is Mevr. Derck.
+Your teacher for computer science is Ms. Derck.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 3
-### Invoer
+<details markdown="1"><summary>Example 3</summary>
+### Input
 ```console?lang=python
 4NW3
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jouw leerkracht voor informaticawetenschappen is Mevr. Michiels.
+Your teacher for computer science is Mrs. Michiels.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 4
-### Invoer
+<details markdown="1"><summary>Example 4</summary>
+### Input
 ```console?lang=python
 4NW2
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Your teacher for computer science is Mr. Atsma.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 5
-### Invoer
+<details markdown="1"><summary>Example 5</summary>
+### Input
 ```console?lang=python
 4NW1
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Your teacher for computer science is Mr. Atsma.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 6
-### Invoer
+<details markdown="1"><summary>Example 6</summary>
+### Input
 ```console?lang=python
 4EW2
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Your teacher for computer science is Mr. Atsma.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 7
-### Invoer
+<details markdown="1"><summary>Example 7</summary>
+### Input
 ```console?lang=python
 4EW1
 ```
 
-### Uitvoer
+### Output
 ```console?lang=python
-Jouw leerkracht voor informaticawetenschappen is Mr. Atsma.
+Your teacher for computer science is Mr. Atsma.
 ```
 </details>
