@@ -1,7 +1,7 @@
 # <b>Assignment</b>
 Write a program that asks the user for 4 words (separated by a `-`) and then displays the longest of the four words.
 
-- <i>If multiple words are the longest, then choose the one that came first.</i>
+<i>If multiple words are the longest, then choose the one that came first.</i>
 
 <br>
 <br>
