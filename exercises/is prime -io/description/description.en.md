@@ -1,8 +1,6 @@
 # <b>Assignment</b>
 Write a program that asks the user for a number, and then says whether that number is a prime number or not.
 
-<br>
-
 <details markdown="1"><summary>What are prime numbers?</summary>
 A prime number is a positive integer that is divisible only by `1` and itself. The lowest (and only <i>even</i>) prime number is `2`. The first 10 prime numbers are:
 `2`, `3`, `5`, `7`, `11`, `13`, `17`, `19`, `23`, `29`
