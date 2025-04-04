@@ -1,7 +1,7 @@
 # <b>Opdracht</b>
 Schrijf een programma dat de gebruiker om 4 woorden vraagt (gescheiden door een `-`) en dan het langste woord van de vier toont. 
 
-<i>Als er meerdere woorden het langste woord zijn, dan kies je het eerste woord die in de voorkomt.</i>
+<i>Als er meerdere woorden het langste woord zijn, dan kies je het eerste woord die voorkomt.</i>
 
 <br>
 <br>
