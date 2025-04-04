@@ -6,7 +6,7 @@ Write a program that asks the user how many words they want to input, then asks 
 
 # <b>Examples</b>
 
-## Example 1
+<details markup="1"><summary>Example 1</summary>
 ### Input
 ```console?lang=python
 3
@@ -19,10 +19,9 @@ cherry
 ```console?lang=python
 The sum of the number of letters in all words is 17.
 ```
+</details>
 
-<br>
-
-## Example 2
+<details markup="1"><summary>Example 2</summary>
 ### Input
 ```console?lang=python
 2
@@ -34,10 +33,9 @@ world
 ```console?lang=python
 The sum of the number of letters in all words is 10.
 ```
+</details>
 
-<br>
-
-## Example 3
+<details markup="1"><summary>Example 3</summary>
 ### Input
 ```console?lang=python
 4
@@ -51,3 +49,4 @@ fox
 ```console?lang=python
 The sum of the number of letters in all words is 21.
 ```
+</details>
