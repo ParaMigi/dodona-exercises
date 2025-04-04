@@ -14,7 +14,7 @@ Write a program that asks the user for a word or sentence and then displays the 
 
 # <b>Examples</b>
 
-## Example 1
+<details markdown="1"><summary>Example 1</summary>
 ### Input
 ```console?lang=python
 computer science is a great subject
@@ -25,10 +25,9 @@ computer science is a great subject
 Vowels: 12
 Consonants: 18
 ```
+</details>
 
-<br>
-
-## Example 2
+<details markdown="1"><summary>Example 2</summary>
 ### Input
 ```console?lang=python
 letters
@@ -39,3 +38,4 @@ letters
 Vowels: 2
 Consonants: 5
 ```
+</details>

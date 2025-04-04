@@ -14,7 +14,7 @@ Schrijf een programma dat de gebruiker om een woord of zin vraagt en dan weergee
 
 # <b>Voorbeelden</b>
 
-## Voorbeeld 1
+<details markdown="1"><summary>Voorbeeld 1</summary>
 ### Invoer
 ```console?lang=python
 informaticawetenschappen is een leuk vak
@@ -25,10 +25,9 @@ informaticawetenschappen is een leuk vak
 Klinkers: 15
 Medeklinkers: 21
 ```
+</details>
 
-<br>
-
-## Voorbeeld 2
+<details markdown="1"><summary>Voorbeeld 2</summary>
 ### Invoer
 ```console?lang=python
 letters
@@ -39,3 +38,4 @@ letters
 Klinkers: 2
 Medeklinkers: 5
 ```
+</details>
