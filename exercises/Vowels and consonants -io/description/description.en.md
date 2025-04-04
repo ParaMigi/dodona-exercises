@@ -9,6 +9,9 @@ Write a program that asks the user for a word or sentence and then displays the 
 - Capital letters: for the convenience of the exercise we will only work with lowercase letters in this exercise. So you do not need to account for capital letters.
 </details>
 
+<br>
+<br>
+
 # <b>Examples</b>
 
 ## Example 1

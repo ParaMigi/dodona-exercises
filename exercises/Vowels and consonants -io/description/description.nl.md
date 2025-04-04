@@ -9,6 +9,9 @@ Schrijf een programma dat de gebruiker om een woord of zin vraagt en dan weergee
 - Hoofdletters: we zullen voor het gemak in deze oefening enkel met kleine letters werken. Je hoeft dus geen rekening te houden met hoofdletters.
 </details>
 
+<br>
+<br>
+
 # <b>Voorbeelden</b>
 
 ## Voorbeeld 1
