@@ -1,0 +1,24 @@
+Klinkers: 15
+Medeklinkers: 21
+Klinkers: 12
+Medeklinkers: 18
+Klinkers: 2
+Medeklinkers: 5
+----------------------------------------
+python input without prompt: true
+tab name: Voorbeelden/Examples
+block count: multi
+input block size: 1
+output block size: 2
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Klinkers" />
+  <detect token="Medeklinkers" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="Vowels" />
+  <detect token="Consonants" />
+  <fixed from="Klinkers" to="Vowels" detect="false" />
+  <fixed from="Medeklinkers" to="Consonants" detect="false" />
+</LANGUAGE>
