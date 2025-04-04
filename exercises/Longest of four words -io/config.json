@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "Longest of four words",
+      "nl": "Langste van vier woorden"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "internals": {
+    "token": "nRza2B_Tdm_dE-H3hYC5ibDdC4fXj9yyP6dd6Z9mfbJbaJY3hcBIFBrFAsAW8SCg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
