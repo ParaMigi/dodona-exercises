@@ -3,64 +3,63 @@ Schrijf een programma dat de gebruiker om een getal vraagt, en dan zegt of dat g
 
 <br>
 
-## Wat zijn priemgetallen?
-Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door 1 en zichzelf. Het laagste (en enige <i>even</i>) priemgetal is 2. De eerste 10 priemgetallen zijn:
-    2, 3, 5, 7, 11, 13, 17, 19, 23, 29
+<details><summary>Wat zijn priemgetallen?</summary>
+Een priemgetal is een positief geheel getal dat enkel en alleen deelbaar is door `1` en zichzelf. Het laagste (en enige <i>even</i>) priemgetal is `2`. De eerste 10 priemgetallen zijn:
+`2`, `3`, `5`, `7`, `11`, `13`, `17`, `19`, `23`, `29`
 
-<i>(PS: de officiële definitie is iets specifieker, waardoor 1 géén priemgetal is)</i>
+<i>(PS: de officiële definitie is iets specifieker, waardoor `1` géén priemgetal is)</i>
+</details>
  
 <br>
 <br> 
  
 # <b>Voorbeelden</b>
-## Voorbeeld 1
-### Input
+<details><summary>Voorbeeld 1</summary>
+### Invoer
 ```console?lang=python
 5
 ```
 
-### Output
+### Uitvoer
 ```console?lang=python
 5 is priem
 ```
+</details>
 
-<br>
-
-## Voorbeeld 2
-### Input
+<details><summary>Voorbeeld 2</summary>
+### Invoer
 ```console?lang=python
 21
 ```
 
-### Output
+### Uitvoer
 ```console?lang=python
 21 is niet priem
 ```
 <i>(want 21 is ook deelbaar door 3 en 7)</i>
+</details>
 
-<br>
-
-## Voorbeeld 3
-### Input
+<details><summary>Voorbeeld 3</summary>
+### Invoer
 ```console?lang=python
 17
 ```
 
-### Output
+### Uitvoer
 ```console?lang=python
 17 is priem
 ```
+</details>
 
-<br>
-
-## Voorbeeld 4
-### Input
+<details><summary>Voorbeeld 4</summary>
+### Invoer
 ```console?lang=python
 55
 ```
 
-### Output
+### Uitvoer
 ```console?lang=python
 55 is niet priem
 ```
 <i>(want 55 is ook deelbaar door 5 en 11)</i>
+</details>
