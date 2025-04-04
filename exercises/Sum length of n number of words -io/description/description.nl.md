@@ -6,7 +6,7 @@ Schrijf een programma dat de gebruiker vraagt hoeveel woorden die wil invoeren, 
 
 # <b>Voorbeelden</b>
 
-<details markup="1"><summary>Voorbeeld 1</summary>
+<details markdown="1"><summary>Voorbeeld 1</summary>
 ### Invoer
 ```console?lang=python
 3
@@ -21,7 +21,7 @@ De som van het aantal letters in de woorden is 15.
 ```
 </details>
 
-<details markup="1"><summary>Voorbeeld 2</summary>
+<details markdown="1"><summary>Voorbeeld 2</summary>
 ### Invoer
 ```console?lang=python
 2
@@ -35,7 +35,7 @@ De som van het aantal letters in de woorden is 11.
 ```
 </details>
 
-<details markup="1"><summary>Voorbeeld 3</summary>
+<details markdown="1"><summary>Voorbeeld 3</summary>
 ### Invoer
 ```console?lang=python
 4
