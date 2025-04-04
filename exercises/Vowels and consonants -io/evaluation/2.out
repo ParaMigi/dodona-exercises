@@ -207,12 +207,12 @@ output block size: 2
 show line numbers: false
 comparison: exact match
 <LANGUAGE code="nl">
-  <detect token="Het kleinste van de getallen is" />
-  <detect token="en het grootste is" />
+  <detect token="Klinkers" />
+  <detect token="Medeklinkers" />
 </LANGUAGE>
 <LANGUAGE code="en">
-  <detect token="The smallest of the numbers is" />
-  <detect token="while the largest is" />
-  <fixed from="Het kleinste van de getallen is" to="The smallest of the numbers is" detect="false" />
-  <fixed from="en het grootste is" to="while the largest is" detect="false" />
+  <detect token="Vowels" />
+  <detect token="Consonants" />
+  <fixed from="Klinkers" to="Vowels" detect="false" />
+  <fixed from="Medeklinkers" to="Consonants" detect="false" />
 </LANGUAGE>
