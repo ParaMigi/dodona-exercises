@@ -14,20 +14,19 @@ Fout wachtwoord - poging 4 - probeer opnieuw
 Correct wachtwoord
 ----------------------------------------
 python input without prompt: true
+tab name: Voorbeelden
 block count: multi
 input block size: ends with
 output block size: ends with
 show line numbers: false
 comparison: exact match
 <LANGUAGE code="nl">
-  tab name: Voorbeelden
   <detect token="Fout wachtwoord - poging" />
   <detect token="probeer opnieuw" />
   <detect token="Correct wachtwoord" />
   <detect token="InformaticaWetenschappen!" />
 </LANGUAGE>
 <LANGUAGE code="en">
-  tab name: Examples
   <detect token="Wrong password - attempt" />
   <detect token="try again" />
   <detect token="Correct password" />
