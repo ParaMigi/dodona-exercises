@@ -1,0 +1,115 @@
+Het langste woord van de vier is: canadapopulieren
+Het langste woord van de vier is: toegangscontrole
+Het langste woord van de vier is: geëmballeerd
+Het langste woord van de vier is: barokcomponist
+Het langste woord van de vier is: biokatalysatoren
+Het langste woord van de vier is: overmachtsituaties
+Het langste woord van de vier is: smeergeldschandaal
+Het langste woord van de vier is: onderwijsvoorrangsbeleid
+Het langste woord van de vier is: toezichtcentrale
+Het langste woord van de vier is: keukenmeidenromannetje
+Het langste woord van de vier is: publiekstrekkende
+Het langste woord van de vier is: Godelieves
+Het langste woord van de vier is: driesterrenkok
+Het langste woord van de vier is: afdrukapparaat
+Het langste woord van de vier is: inkoopagenten
+Het langste woord van de vier is: drugsdeskundige
+Het langste woord van de vier is: mannetjeseenden
+Het langste woord van de vier is: achternagezeten
+Het langste woord van de vier is: verlichtingen
+Het langste woord van de vier is: brievenactie
+Het langste woord van de vier is: geconcentreerder
+Het langste woord van de vier is: afvalwatersysteem
+Het langste woord van de vier is: verduidelijkt
+Het langste woord van de vier is: vaartschippers
+Het langste woord van de vier is: nabijgekomen
+Het langste woord van de vier is: integratiebevorderende
+Het langste woord van de vier is: paternosterliften
+Het langste woord van de vier is: waterleidingnet
+Het langste woord van de vier is: interpellaties
+Het langste woord van de vier is: inquisitoriale
+Het langste woord van de vier is: gelegenheidspreek
+Het langste woord van de vier is: vrouwenportretten
+Het langste woord van de vier is: onbeschrijflijke
+Het langste woord van de vier is: werkgelegenheidsniveau
+Het langste woord van de vier is: handwerkgroep
+Het langste woord van de vier is: membraantechnieken
+Het langste woord van de vier is: beleidsoperatie
+Het langste woord van de vier is: jongensstemmetje
+Het langste woord van de vier is: controleronde
+Het langste woord van de vier is: netneutraliteitswet
+Het langste woord van de vier is: miljardenhulp
+Het langste woord van de vier is: gebruiksstudies
+Het langste woord van de vier is: bijeengegooid
+Het langste woord van de vier is: optieprogramma
+Het langste woord van de vier is: decentraliseerde
+Het langste woord van de vier is: bestemmingsplanprocedures
+Het langste woord van de vier is: vloerverwarmingssysteem
+Het langste woord van de vier is: productiestroom
+Het langste woord van de vier is: Kaapverdiërs
+Het langste woord van de vier is: vakantieliefde
+Het langste woord van de vier is: aankooppatroon
+Het langste woord van de vier is: bijeengeschraapte
+Het langste woord van de vier is: erodeermachine
+Het langste woord van de vier is: mystificeert
+Het langste woord van de vier is: overschrijvingsformulier
+Het langste woord van de vier is: lievelingskoek
+Het langste woord van de vier is: kernsplijtingsafval
+Het langste woord van de vier is: spektakelstuk
+Het langste woord van de vier is: concertzaaltjes
+Het langste woord van de vier is: onderzoeksprogramma
+Het langste woord van de vier is: gereorganiseerd
+Het langste woord van de vier is: muziekkanalen
+Het langste woord van de vier is: capitulatievoorwaarden
+Het langste woord van de vier is: paternosterwerk
+Het langste woord van de vier is: wachttermijnen
+Het langste woord van de vier is: uitreisvisa
+Het langste woord van de vier is: onnavolgbare
+Het langste woord van de vier is: kaalgeknipt
+Het langste woord van de vier is: metselwerk
+Het langste woord van de vier is: automobielsector
+Het langste woord van de vier is: kapitalistenklasse
+Het langste woord van de vier is: gezinsvoogdijinstelling
+Het langste woord van de vier is: begrotingsevenwicht
+Het langste woord van de vier is: breedbeeldformaat
+Het langste woord van de vier is: millenniumovergang
+Het langste woord van de vier is: toezichtsinstrument
+Het langste woord van de vier is: milieuverbruik
+Het langste woord van de vier is: velddoelpunten
+Het langste woord van de vier is: strafrechtspecialist
+Het langste woord van de vier is: karaktercode
+Het langste woord van de vier is: tweegezinswoningen
+Het langste woord van de vier is: diplomatenwijken
+Het langste woord van de vier is: wandelmogelijkheden
+Het langste woord van de vier is: regelcentrum
+Het langste woord van de vier is: Grevelingenstraat
+Het langste woord van de vier is: ouderparticipatie
+Het langste woord van de vier is: mestoppervlak
+Het langste woord van de vier is: Buijsrogge
+Het langste woord van de vier is: smeerlapperijen
+Het langste woord van de vier is: scheefgetrokken
+Het langste woord van de vier is: tankgeschut
+Het langste woord van de vier is: oogdruppeltjes
+Het langste woord van de vier is: foutenlijsten
+Het langste woord van de vier is: nieuwvormingen
+Het langste woord van de vier is: hoogtewandeling
+Het langste woord van de vier is: Sipaliwini
+Het langste woord van de vier is: omboordsels
+Het langste woord van de vier is: medicijnenstudent
+Het langste woord van de vier is: Hitlervergelijking
+Het langste woord van de vier is: leefpatronen
+----------------------------------------
+python input without prompt: true
+tab name: Nederlandse woorden
+block count: multi
+input block size: 1
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Het langste woord van de vier is" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="The longest of the four words is" />
+  <fixed from="Het langste woord van de vier is" to="The longest of the four words is" />
+</LANGUAGE>

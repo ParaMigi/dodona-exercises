@@ -1,0 +1,115 @@
+Het langste woord van de vier is: semiquantitatively
+Het langste woord van de vier is: unadjunctive
+Het langste woord van de vier is: plotproof
+Het langste woord van de vier is: nonpropagandistic
+Het langste woord van de vier is: pyoxanthose
+Het langste woord van de vier is: enterokinetic
+Het langste woord van de vier is: rectus
+Het langste woord van de vier is: dysmerogenetic
+Het langste woord van de vier is: paguroidea
+Het langste woord van de vier is: visualization
+Het langste woord van de vier is: peroxidizement
+Het langste woord van de vier is: glossoepiglottidean
+Het langste woord van de vier is: endamebas
+Het langste woord van de vier is: confrontationism
+Het langste woord van de vier is: overbrutalizing
+Het langste woord van de vier is: spiraltail
+Het langste woord van de vier is: spitefullest
+Het langste woord van de vier is: theobromine
+Het langste woord van de vier is: hydroidean
+Het langste woord van de vier is: reeledoing
+Het langste woord van de vier is: tetrodotoxin
+Het langste woord van de vier is: anthropogeographer
+Het langste woord van de vier is: pseudoarticulation
+Het langste woord van de vier is: nonaccommodably
+Het langste woord van de vier is: disimpassioned
+Het langste woord van de vier is: unguessable
+Het langste woord van de vier is: chylophyllously
+Het langste woord van de vier is: multitasking
+Het langste woord van de vier is: antiegotist
+Het langste woord van de vier is: piscataqua
+Het langste woord van de vier is: graniticoline
+Het langste woord van de vier is: pantophagist
+Het langste woord van de vier is: presbycusis
+Het langste woord van de vier is: neurypnology
+Het langste woord van de vier is: unnoticeableness
+Het langste woord van de vier is: filibustering
+Het langste woord van de vier is: interjectorily
+Het langste woord van de vier is: countervengeance
+Het langste woord van de vier is: supersaintly
+Het langste woord van de vier is: thereinbefore
+Het langste woord van de vier is: ovariohysterectomy
+Het langste woord van de vier is: nonpropitiative
+Het langste woord van de vier is: triplice
+Het langste woord van de vier is: unigeniture
+Het langste woord van de vier is: antinodes
+Het langste woord van de vier is: plutarchian
+Het langste woord van de vier is: erythroxylaceous
+Het langste woord van de vier is: amalgamated
+Het langste woord van de vier is: equianharmonic
+Het langste woord van de vier is: extraparietal
+Het langste woord van de vier is: triphenylcarbinol
+Het langste woord van de vier is: metallographic
+Het langste woord van de vier is: ironhandedly
+Het langste woord van de vier is: quakerlet
+Het langste woord van de vier is: electrocardiography
+Het langste woord van de vier is: hairbreadths
+Het langste woord van de vier is: maledicting
+Het langste woord van de vier is: ginglymostoma
+Het langste woord van de vier is: pseudoskink
+Het langste woord van de vier is: historicocritical
+Het langste woord van de vier is: uncharacteristically
+Het langste woord van de vier is: preverification
+Het langste woord van de vier is: ideogrammatic
+Het langste woord van de vier is: magnetoscope
+Het langste woord van de vier is: disaffiliations
+Het langste woord van de vier is: unappliably
+Het langste woord van de vier is: reductivism
+Het langste woord van de vier is: nonindustrious
+Het langste woord van de vier is: unfeebleness
+Het langste woord van de vier is: suspicional
+Het langste woord van de vier is: excrementive
+Het langste woord van de vier is: horsefishes
+Het langste woord van de vier is: sulphoxyphosphate
+Het langste woord van de vier is: reservicing
+Het langste woord van de vier is: mascularity
+Het langste woord van de vier is: bulldoze
+Het langste woord van de vier is: tiddlywinks
+Het langste woord van de vier is: procryptically
+Het langste woord van de vier is: overpotently
+Het langste woord van de vier is: communicability
+Het langste woord van de vier is: sportswomanship
+Het langste woord van de vier is: myelopoiesis
+Het langste woord van de vier is: seditiousness
+Het langste woord van de vier is: unsubmerging
+Het langste woord van de vier is: unslanting
+Het langste woord van de vier is: percomorphous
+Het langste woord van de vier is: ureterostegnosis
+Het langste woord van de vier is: anastaltic
+Het langste woord van de vier is: belostomidae
+Het langste woord van de vier is: weakheartedly
+Het langste woord van de vier is: anchoritical
+Het langste woord van de vier is: nonamphibian
+Het langste woord van de vier is: certificatory
+Het langste woord van de vier is: rhinolaryngoscope
+Het langste woord van de vier is: splashiness
+Het langste woord van de vier is: butanones
+Het langste woord van de vier is: nonabsorbable
+Het langste woord van de vier is: shepherdhood
+Het langste woord van de vier is: mudfishes
+Het langste woord van de vier is: disdiapason
+----------------------------------------
+python input without prompt: true
+tab name: English words
+block count: multi
+input block size: 1
+output block size: 1
+show line numbers: false
+comparison: exact match
+<LANGUAGE code="nl">
+  <detect token="Het langste woord van de vier is" />
+</LANGUAGE>
+<LANGUAGE code="en">
+  <detect token="The longest of the four words is" />
+  <fixed from="Het langste woord van de vier is" to="The longest of the four words is" />
+</LANGUAGE>
