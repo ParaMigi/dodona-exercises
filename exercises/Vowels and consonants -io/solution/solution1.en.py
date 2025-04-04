@@ -3,7 +3,7 @@ vowels = "aeiou"
 consonants = "bcdfghjklmnpqrstvwxz"
 nVowels = 0
 nConsonants = 0
-for char in phrase:
+for char in wordOrPhrase:
     if char in vowels:
         nVowels += 1
     elif char in consonants:
