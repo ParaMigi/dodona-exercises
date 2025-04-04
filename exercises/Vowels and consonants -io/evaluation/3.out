@@ -200,7 +200,7 @@ Klinkers: 3
 Medeklinkers: 3
 ----------------------------------------
 python input without prompt: true
-tab name: Nederlandse woorden
+tab name: English words
 block count: multi
 input block size: 1
 output block size: 2
