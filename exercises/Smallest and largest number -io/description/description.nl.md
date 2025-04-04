@@ -6,7 +6,7 @@ Schrijf een programma dat steeds om getallen blijft vragen totdat een 0 wordt in
 
 # <b>Voorbeelden</b>
 
-## Voorbeeld 1
+<details markdown="1"><summary>Voorbeeld 1</summary>
 ### Invoer
 ```console?lang=python
 74
@@ -27,10 +27,9 @@ Schrijf een programma dat steeds om getallen blijft vragen totdat een 0 wordt in
 ```console?lang=python
 Het kleinste van de getallen is 34, en het grootste is 74.
 ```
+</details>
 
-<br>
-
-## Voorbeeld 2
+<details markdown="1"><summary>Voorbeeld 2</summary>
 ### Invoer
 ```console?lang=python
 21
@@ -44,3 +43,4 @@ Het kleinste van de getallen is 34, en het grootste is 74.
 ```console?lang=python
 Het kleinste van de getallen is 20, en het grootste is 30.
 ```
+</details>

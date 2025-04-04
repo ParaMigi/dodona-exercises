@@ -6,7 +6,7 @@ Write a program that keeps asking for numbers until a 0 is given, and then prese
 
 # <b>Examples</b>
 
-## Example 1
+<details markdown="1"><summary>Example 1</summary>
 ### Input
 ```console?lang=python
 74
@@ -27,10 +27,9 @@ Write a program that keeps asking for numbers until a 0 is given, and then prese
 ```console?lang=python
 The smallest of the numbers is 34, while the largest is 74.
 ```
+</details>
 
-<br>
-
-## Example 2
+<details markdown="1"><summary>Example 2</summary>
 ### Input
 ```console?lang=python
 21
@@ -44,3 +43,4 @@ The smallest of the numbers is 34, while the largest is 74.
 ```console?lang=python
 The smallest of the numbers is 20, while the largest is 30.
 ```
+</details>
