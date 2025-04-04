@@ -12,11 +12,8 @@ show line numbers: false
 comparison: exact match
 <LANGUAGE code="nl">
   <detect token="Het langste woord van de vier is" />
-  <detect token="informaticawetenschappen" />
 </LANGUAGE>
 <LANGUAGE code="en">
   <detect token="The longest of the four words is" />
-  <detect token="computerscience" />
   <fixed from="Het langste woord van de vier is" to="The longest of the four words is" />
-  <fixed from="informaticawetenschappen" to="computerscience" />
 </LANGUAGE>
