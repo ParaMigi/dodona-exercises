@@ -4,8 +4,9 @@ Schrijf een programma dat een gebruiker om het wachtwoord vraagt totdat die het 
 <br>
 <br>
 
-# <b>Example</b>
+# <b>Examples</b>
 
+<details markdown="1"><summary>Example 1</summary>
 ### Input
 ```console?lang=python
 AtsmaIsCool!
@@ -29,3 +30,24 @@ Wrong password - attempt 6 - try again
 Wrong password - attempt 7 - try again
 Correct password
 ```
+</details>
+
+<details markdown="1"><summary>Example 2</summary>
+### Input
+```console?lang=python
+Password1234
+informaticawetenschappen
+Informaticawetenschappen
+InformaticaWetenschappen
+InformaticaWetenschappen!
+```
+
+### Output
+```console?lang=python
+Wrong password - attempt 1 - try again
+Wrong password - attempt 2 - try again
+Wrong password - attempt 3 - try again
+Wrong password - attempt 4 - try again
+Correct password
+```
+</details>
