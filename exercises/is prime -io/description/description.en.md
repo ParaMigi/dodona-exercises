@@ -12,7 +12,7 @@ A prime number is a positive integer that is divisible only by `1` and itself. T
 <br> 
  
 # <b>Examples</b>
-<details><summary>Example 1</summary>
+<details markdown="1"><summary>Example 1</summary>
 ### Input
 ```console?lang=python
 5
@@ -24,7 +24,7 @@ A prime number is a positive integer that is divisible only by `1` and itself. T
 ```
 </details>
 
-<details><summary>Example 2</summary>
+<details markdown="1"><summary>Example 2</summary>
 ### Input
 ```console?lang=python
 21
@@ -37,7 +37,7 @@ A prime number is a positive integer that is divisible only by `1` and itself. T
 <i>(because 21 is also divisible by 3 and 7)</i>
 </details>
 
-<details><summary>Example 3</summary>
+<details markdown="1"><summary>Example 3</summary>
 ### Input
 ```console?lang=python
 17
@@ -49,7 +49,7 @@ A prime number is a positive integer that is divisible only by `1` and itself. T
 ```
 </details>
 
-<details><summary>Example 4</summary>
+<details markdown="1"><summary>Example 4</summary>
 ### Input
 ```console?lang=python
 55
