@@ -1,31 +1,23 @@
-# Dodona Exercise Repository Template
+# Dodona Exercise Repository by Michael Atsma
 
 _English below_
 
-Dit is een _template repository_ om te gebruiken als oefeningenrepository op Dodona.
-Door op de groene knop "Use this template" kan je snel een werkende repository voor oefeningen hebben.
-[Klik hier voor de bijhorende handleiding.](https://docs.dodona.be/nl/guides/exercises/creating-exercises/introduction/)
+Dit is de oefeningenrepository van Michael Atsma voor oefeningen op [Dodona](https://dodona.be/nl).
+Voel u vrij om hiervan te gebruiken wat u wil. Ik gebruik voornamelijk de _output_ pythia judge, omdat ik niet kon vinden hoe ik meerdere talen kon maken voor andere judges.
+[Klik hier voor de handleiding van Dodona.](https://docs.dodona.be/nl/guides/exercises/creating-exercises/introduction/)
 
-Deze repository bevat één oefening en één leesactiviteit.
-We hebben echter een veel breder aanbod voorbeeldoefeningen in [een andere repository](https://github.com/dodona-edu/example-exercises).
-
-Als je de repository opent in de [github.dev web-based editor
-](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) (druk op <kbd>.</kbd>), zal er een suggestie verschijnen om onze [extensie](https://marketplace.visualstudio.com/items?itemName=dodona.dodona-exercise-plugin) te installeren.
-We raden aan om deze suggestie te aanvaarden.
+Deze repository bevat meerdere oefeningen en één leesactiviteit (de standaard leesactiviteit van de [template van Dodona](https://github.com/dodona-edu/exercise-template-repository)).
+Dodona zelf heeft een veel breder aanbod voorbeeldoefeningen in [een andere repository](https://github.com/dodona-edu/example-exercises).
 
 Merk op: de leesactiviteit bevat inhoud van Wikipedia, beschikbaar onder de licentie [Creative Commons Naamsvermelding/Gelijk delen](http://creativecommons.org/licenses/by-sa/4.0/deed.nl).
 
 ---
 
-This is a template repository to use as an exercise repository for Dodona.
-By pressing the green button "Use this template", you can quickly get a working repository for exercises.
-[Clich here for the accompanying manual.](https://docs.dodona.be/nl/guides/exercises/creating-exercises/introduction/)
+This is the exercise repository of Michael Atsma for exercises on [Dodona](https://dodona.be/).
+Feel free to use whatever you like from it. I mostly use the _output_ Pythia judge, because I couldn’t figure out how to create multiple languages for other judges.  
+[Click here for the Dodona manual.](https://docs.dodona.be/en/guides/exercises/creating-exercises/introduction/)
 
-This repository contains one exercise and one reading activity.
-We do, however, have a much bigger selection of example exercise in [another repository](https://github.com/dodona-edu/example-exercises).
+This repository contains multiple exercises and one reading activity (the default reading activity from the [Dodona template](https://github.com/dodona-edu/exercise-template-repository)).  
+Dodona itself offers a much broader range of example exercises in [another repository](https://github.com/dodona-edu/example-exercises).
 
-If you open this repository in the [github.dev web-based editor
-](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) (press <kbd>.</kbd>), a suggestion will appear to install our [extension](https://marketplace.visualstudio.com/items?itemName=dodona.dodona-exercise-plugin).
-We suggest you accept this.
-
-Note: the reading activity contains content from Wikipedia, which is available under the [Creative Commons ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
+Note: the reading activity contains content from Wikipedia, available under the [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/4.0/deed.en).
