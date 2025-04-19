@@ -1,6 +1,4 @@
 wordOrPhrase = input("Give a word or phrase: ")
-vowels = "aeiou"
-consonants = "bcdfghjklmnpqrstvwxz"
 nVowels = 0
 nConsonants = 0
 for char in wordOrPhrase:

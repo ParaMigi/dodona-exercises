@@ -7,6 +7,7 @@ Schrijf een programma dat de gebruiker om een woord of zin vraagt en dan weergee
 - Speciaal geval: `y`, want het hangt van de uitspraak af of dit een klinker of medeklinker is. Deze letter laten we buiten beschouwing en zal dus niet voorkomen in de oefening.
 - Spatie: als er een zin wordt gegeven zullen er dus spaties tussen de woorden staan. Dit moet bij geen van de twee categorieën gerekend worden.
 - Hoofdletters: we zullen voor het gemak in deze oefening enkel met kleine letters werken. Je hoeft dus geen rekening te houden met hoofdletters.
+- Accenten en trema's: we zullen voor het gemak in deze oefening geen letters met accenten of trema's gebruiken. Je hoeft dus geen rekening te houden met letters met accenten of trema's.
 </details>
 
 <br>

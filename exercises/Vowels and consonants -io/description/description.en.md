@@ -7,6 +7,7 @@ Write a program that asks the user for a word or sentence and then displays the 
 - Special case: `y`, because whether this is a vowel or consonant depends on the pronunciation. We will not consider this letter for this exercise and it will not appear.
 - Space: if a sentence is given there will be spaces between the words. The spaces should count to neither of the two categories.
 - Capital letters: for the convenience of the exercise we will only work with lowercase letters in this exercise. So you do not need to account for capital letters.
+- Accents: for the convenience of the exercise there will be no accents on any of the letters in the tests. So you do not need to account for any accents.
 </details>
 
 <br>
